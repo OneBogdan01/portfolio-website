@@ -1,8 +1,9 @@
 <script>
 	import Header from './Header.svelte';
 	import './styles.css';
+	import NavBar from './NavBar.svelte';
 </script>
-
+<NavBar></NavBar>
 <div class="app">
 	<Header />
 

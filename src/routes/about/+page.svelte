@@ -2,10 +2,7 @@
 	<title>About</title>
 	<meta name="description" content="About this app" />
 </svelte:head>
-<script>
-	import NavBar from "../NavBar.svelte";
-</script>
-<NavBar/> 
+
 <div class="text-column">
 	<h1>About this app</h1>
 
